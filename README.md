@@ -1,1 +1,1 @@
-# alx-higher_level_programming learning Python programming lang
+# alx-higher_level_programming learning Python programming language
