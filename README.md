@@ -1,2 +1,2 @@
-ALX-higher level programming. earning Python programming language.
+ALX-higher level programming. Learning Python programming language.
 
